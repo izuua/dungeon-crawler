@@ -10,13 +10,13 @@
 }
 
 .chest {
-    background-image: url('/tiles/chest.png')
+    background-image: url('/chest.png')
 }
 
 .rock {
-    background-image: url('/tiles/rock.png');
+    background-image: url('/rock.png');
 }
 
 .tree {
-    background-image: url('/tiles/tree.png');
+    background-image: url('/tree.png');
 }
