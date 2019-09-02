@@ -19,7 +19,7 @@ function Player(props) {
     )
 }
 
-function mapStateToProps(state) {
+function mapStateToProps(state)  {
     return {
         ...state.player,
     }
