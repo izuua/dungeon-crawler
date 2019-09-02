@@ -1,6 +1,7 @@
 .tile {
     display: inline-flex;
     margin-bottom: -4px;
+    margin-left: 0px;
     background-color: #42b842;
 }
 
