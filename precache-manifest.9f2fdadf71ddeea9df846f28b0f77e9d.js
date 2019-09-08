@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af37fdc10aa2c92d77720dadd145ca8b",
+    "revision": "e9276f3b0ae05c8d70896362934e14f3",
     "url": "/dungeon-crawler/index.html"
   },
   {
-    "revision": "b90903dc56224d409cd3",
+    "revision": "cd3db2e2bdc04eda0f80",
     "url": "/dungeon-crawler/static/css/main.97742322.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dungeon-crawler/static/js/2.58cad70b.chunk.js"
   },
   {
-    "revision": "b90903dc56224d409cd3",
-    "url": "/dungeon-crawler/static/js/main.a6eed437.chunk.js"
+    "revision": "cd3db2e2bdc04eda0f80",
+    "url": "/dungeon-crawler/static/js/main.d5ce6e43.chunk.js"
   },
   {
     "revision": "869bcdf1209bc6703bf2",
